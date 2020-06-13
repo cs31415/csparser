@@ -1,0 +1,13 @@
+﻿SqlHelper.ExecuteDataset,1,Microsoft.ApplicationBlocks.Data
+SqlHelper.ExecuteReader,1,Microsoft.ApplicationBlocks.Data
+SqlHelper.ExecuteNonQuery,1,Microsoft.ApplicationBlocks.Data
+SqlHelper.ExecuteScalar,1,Microsoft.ApplicationBlocks.Data
+
+SqlHelper.ExecuteDataset,2,Microsoft.ApplicationBlocks.Data
+SqlHelper.ExecuteReader,2,Microsoft.ApplicationBlocks.Data
+SqlHelper.ExecuteNonQuery,2,Microsoft.ApplicationBlocks.Data
+SqlHelper.ExecuteScalar,2,Microsoft.ApplicationBlocks.Data
+
+DatabaseHelper.ExecuteNonQueryAsync,3
+DatabaseHelper.ExecuteDatasetAsync,2
+SqlCommand,0
